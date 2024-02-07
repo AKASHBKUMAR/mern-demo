@@ -1,1 +1,1 @@
-#My First Javascript Page
+// My First Javascript Page
